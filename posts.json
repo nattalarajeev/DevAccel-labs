@@ -1,0 +1,35 @@
+[
+  {
+    "id": "blog-post-1",
+    "title": "Announcing real‑time analytics dashboards",
+    "category": "Product",
+    "date": "2025-03-12",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&q=80&auto=format&fit=crop",
+    "excerpt": "A deep dive into our new dashboards and how teams use them to align decisions.",
+    "href": "/blog-post-1.html"
+  },
+  {
+    "id": "blog-post-2",
+    "title": "How we built our workflow engine",
+    "category": "Engineering",
+    "date": "2025-02-28",
+    "image": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?w=1200&q=80&auto=format&fit=crop",
+    "excerpt": "Architecture notes and the trade‑offs behind our event‑driven orchestrator.",
+    "href": "/blog-post-2.html"
+  },
+  {
+    "id": "blog-post-3",
+    "title": "next‑forge raises seed to accelerate product",
+    "category": "News",
+    "date": "2025-01-10",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=80&auto=format&fit=crop",
+    "excerpt": "We’re excited to share what this means for our roadmap and customers.",
+    "href": "/blog-post-3.html"
+  },
+  { "id": "blog-post-4", "title": "10 tips to automate approvals", "category": "Product", "date": "2025-03-02", "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1200&q=80&auto=format&fit=crop", "excerpt": "Save hours per week with these workflow patterns.", "href": "/blog-post-1.html" },
+  { "id": "blog-post-5", "title": "Scaling workers with queues", "category": "Engineering", "date": "2025-02-14", "image": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?w=1200&q=80&auto=format&fit=crop", "excerpt": "Throughput, idempotency, and retries explained.", "href": "/blog-post-2.html" },
+  { "id": "blog-post-6", "title": "Company milestones Q1", "category": "News", "date": "2025-03-20", "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&q=80&auto=format&fit=crop", "excerpt": "Highlights from our latest release train.", "href": "/blog-post-3.html" }
+  ,
+  { "id": "blog-post-future", "title": "Future", "category": "News", "date": "2025-03-25", "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&q=80&auto=format&fit=crop", "excerpt": "A glimpse into what’s next for next‑forge.", "href": "/blog-post-future.html" }
+]
+
